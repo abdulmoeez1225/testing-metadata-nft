@@ -1,0 +1,26 @@
+{
+    "name": "test-car-3",
+    "image": "https://raw.githubusercontent.com/abdulmoeez1225/testing-metadata-nft/main/images/3.png",
+    "description": "This is Blue car",
+    "attributes":[
+        {
+      "trait_type": "MaxSpeed", 
+      "value": 16
+    },
+    {
+      "trait_type": "Acceleration", 
+      "value": 4
+    },
+        {
+      "trait_type": "Nitro", 
+      "value": 23
+    },  {
+      "trait_type": "SteeringPower", 
+      "value": 4
+    },
+    {
+    "trait_type": "Color", 
+      "value": "Blue"
+    }
+     ]
+  }

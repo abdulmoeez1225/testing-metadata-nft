@@ -1,0 +1,26 @@
+{
+    "name": "test-car-2",
+    "image": "https://raw.githubusercontent.com/abdulmoeez1225/testing-metadata-nft/main/images/2.png",
+    "description": "This is Red car",
+    "attributes":[
+        {
+      "trait_type": "MaxSpeed", 
+      "value": 15
+    },
+    {
+      "trait_type": "Acceleration", 
+      "value": 7
+    },
+        {
+      "trait_type": "Nitro", 
+      "value": 20
+    },  {
+      "trait_type": "SteeringPower", 
+      "value": 2
+    },
+    {
+    "trait_type": "Color", 
+      "value": "Red"
+    }
+     ]
+  }
