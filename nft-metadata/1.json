@@ -30,7 +30,7 @@
     {
       "display_type": "boost_percentage", 
       "trait_type": "Stamina Increase", 
-      "value": 10
+      "value": 100
     }, 
     {
       "display_type": "number", 
